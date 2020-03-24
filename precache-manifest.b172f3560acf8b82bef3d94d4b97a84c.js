@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "389b3d2ef4424a122a873a087fce8807",
+    "revision": "28ee6e538497b6d86fd58b6087dede91",
     "url": "//jona35q.github.io/app-citas/index.html"
   },
   {
-    "revision": "83e5ae930ec709b4ee0c",
+    "revision": "6a058a1c0a0b4d5b79b2",
     "url": "//jona35q.github.io/app-citas/static/css/main.61c744dc.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//jona35q.github.io/app-citas/static/js/2.bfe11fc5.chunk.js"
   },
   {
-    "revision": "83e5ae930ec709b4ee0c",
-    "url": "//jona35q.github.io/app-citas/static/js/main.93dd0c32.chunk.js"
+    "revision": "6a058a1c0a0b4d5b79b2",
+    "url": "//jona35q.github.io/app-citas/static/js/main.6fddd264.chunk.js"
   },
   {
     "revision": "464e2983ef445a23baf2",

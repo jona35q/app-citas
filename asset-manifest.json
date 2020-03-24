@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "//jona35q.github.io/app-citas/static/css/main.61c744dc.chunk.css",
-    "main.js": "//jona35q.github.io/app-citas/static/js/main.93dd0c32.chunk.js",
-    "main.js.map": "//jona35q.github.io/app-citas/static/js/main.93dd0c32.chunk.js.map",
+    "main.js": "//jona35q.github.io/app-citas/static/js/main.6fddd264.chunk.js",
+    "main.js.map": "//jona35q.github.io/app-citas/static/js/main.6fddd264.chunk.js.map",
     "runtime-main.js": "//jona35q.github.io/app-citas/static/js/runtime-main.871e80e6.js",
     "runtime-main.js.map": "//jona35q.github.io/app-citas/static/js/runtime-main.871e80e6.js.map",
     "static/js/2.bfe11fc5.chunk.js": "//jona35q.github.io/app-citas/static/js/2.bfe11fc5.chunk.js",
     "static/js/2.bfe11fc5.chunk.js.map": "//jona35q.github.io/app-citas/static/js/2.bfe11fc5.chunk.js.map",
     "index.html": "//jona35q.github.io/app-citas/index.html",
-    "precache-manifest.11327b45e594ac003a3a852ab5f207c5.js": "//jona35q.github.io/app-citas/precache-manifest.11327b45e594ac003a3a852ab5f207c5.js",
+    "precache-manifest.b172f3560acf8b82bef3d94d4b97a84c.js": "//jona35q.github.io/app-citas/precache-manifest.b172f3560acf8b82bef3d94d4b97a84c.js",
     "service-worker.js": "//jona35q.github.io/app-citas/service-worker.js",
     "static/css/main.61c744dc.chunk.css.map": "//jona35q.github.io/app-citas/static/css/main.61c744dc.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.871e80e6.js",
     "static/js/2.bfe11fc5.chunk.js",
     "static/css/main.61c744dc.chunk.css",
-    "static/js/main.93dd0c32.chunk.js"
+    "static/js/main.6fddd264.chunk.js"
   ]
 }
